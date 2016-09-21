@@ -2,7 +2,7 @@
 
 ## Blockchain
 
-### Screencasts
+### Videos
 
 #### About
 * [Blockchain Demystified | Daniel Gasteiger | TEDxLausanne](https://www.youtube.com/watch?v=40ikEV6xGg4)
